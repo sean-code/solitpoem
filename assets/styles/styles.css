@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: rgba(0,0,0,0.8) url('https://images.unsplash.com/photo-1477346611705-65d1883cee1e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bW91bnRhaW4lMjB0aGVtZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+}
