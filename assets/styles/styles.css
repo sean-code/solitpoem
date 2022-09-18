@@ -35,10 +35,41 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 20px 10px 5px 10px;
+    margin: 40px 10px 50px 10px;
     font-size: xx-large;
 
 }
-.type_poem{
-    
+
+
+@media only screen and (max-width:375px){
+    .container h1{
+        margin-top: 40px;
+        font-size: x-large;
+        font-weight: 800;
+    }
+    .type{
+        font-size: x-large;
+    }
+}
+
+@media only screen and (max-width:414px){
+    .container h1{
+        margin-top: 40px;
+        font-size: x-large;
+        font-weight: 800;
+    }
+    .type{
+        font-size: x-large;
+    }
+}
+
+@media only screen and (max-width:280px){
+    .container h1{
+        margin-top: 40px;
+        font-size: large;
+        font-weight: 800;
+    }
+    .type{
+        font-size: large;
+    }
 }
